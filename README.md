@@ -1,4 +1,4 @@
-![](/assets/images/header.png)
+![](/images/header.png)
 
 Because I was unable to actually finish and release a game for the past four years, I am challenging myself to create a series of really small and simple games, collecting them here as <code>The Scuffed Series</code>.
 

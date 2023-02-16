@@ -5,7 +5,7 @@ const files = [
 files.forEach(generateHTML);
 
 function generateHTML(item) {
-  document.getElementById("download-content").innerHTML = '
+  document.getElementById("download-section").innerHTML = '
       <hr>
       
       <h2>The Scuffed Series - A Clickers Nightmare</h3>

@@ -1,2 +1,7 @@
 markdown: kramdown
 theme: jekyll-theme-cayman
+
+title: The Scuffed Series
+
+navbar-col: "#323232"
+page-col: "#323232"

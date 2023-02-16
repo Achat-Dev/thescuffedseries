@@ -2,3 +2,6 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 
 title: "The Scuffed Series"
+
+plugins:
+ - jekyll-readme-index

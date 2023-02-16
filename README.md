@@ -1,5 +1,5 @@
 ![](/assets/images/header.png)
 
-# The Scuffed Series
+Because I was unable to actually finish a release a game for the past four years, I am challenging myself to create a series of really small and simple games, collecting them here as <code>The Scuffed Series</code>.
 
-This is a test
+Disclaimer: These games are not meant to be groundbreaking by any means, I just want to get over my perfectionism and scoping issues :)

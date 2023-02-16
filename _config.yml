@@ -3,5 +3,7 @@ markdown: kramdown
 name: "The Scuffed Series"
 title: null
 
+page-col: "#323232"
+
 plugins:
  - jekyll-readme-index

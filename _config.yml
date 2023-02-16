@@ -1,7 +1,0 @@
-markdown: kramdown
-
-name: "The Scuffed Series"
-title: null
-
-plugins:
- - jekyll-readme-index

@@ -5,7 +5,7 @@
         font-size: 18px;
       }
       
-      h3 {
+      h2 {
         text-align: center;
       }
       
@@ -29,11 +29,11 @@
       .download-button {
         border: none;
         cursor: pointer;
+        padding: 10px 20px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        padding: 10px 20px;
         color: white;
         background-color: #505050
       }
